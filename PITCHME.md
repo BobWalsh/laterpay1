@@ -1,10 +1,10 @@
-# Flux 
+# Bee 
 
 An application architecture for React
 
 ---
 
-### Flux Design
+### Bee Design
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
