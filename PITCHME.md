@@ -1,14 +1,23 @@
-# Bee 
+# The JAMstack and LaterPay 
 
-An application architecture for React
+New ways of doing business.
 
 ---
 
-### Bee Design
+### What is the JAMstack
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- JavaScript: React, Angular, or vanilla JS
+- APIs: for CMS, shopping carts, or restricting content
+- Markup: regular HTML, templated markup
+
+
+---
+## Advantages
+
+- Speed: no server means everything happens in the browser
+- Security: Communication limited to defined APIs
+- Scaling: cheaper and easier when it's just serving files
+---
 
 ---
 
