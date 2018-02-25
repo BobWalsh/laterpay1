@@ -21,10 +21,27 @@ New ways of doing business.
 ### Examples
 
 - [City of Boston](https://budget.boston.gov/)
-- [JAMstack site](https://jamstack.org/)
 - [Serverless](https://serverless.com/)
+- [JAMstack site*](https://jamstack.org/)
+
+(Loaded with JAMstack resources)
+---
+### What about Content? User a Headless CMS
+
+Do we have to use WordPress?
+![WordPress](https://www.dropbox.com/s/aw4z4p8bjq0ow2z/wp1.jpg?dl=0)
+
+
+I like [Contentful](https://www.contentful.com/), but there are plenty closed and open source solutions to [choose from](https://headlesscms.org/).
+
 
 ---
+
+
+
+
+
+
 
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
 
