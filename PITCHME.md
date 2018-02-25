@@ -1,16 +1,95 @@
-# Flux 
+### The JAMstack and LaterPay 
 
-An application architecture for React
-
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+New ways of doing business.
 
 ---
+#### So who am I?
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+  ### Bob Walsh
 
+  [47hats](https://47hats.com)<br/>
+  [microconsults](https://microconsults.com)<br/>
+  [@BobWalsh](https://twitter.com/BobWalsh)<br/>
+  GitHub: [bobwalsh](https://github.com/BobWalsh)
+  [bob.walsh@47hats.com](mailto:bob.walsh@47hats.com)
+---
+
+### What is the JAMstack?
+
+- JavaScript: React, Angular, or vanilla JS
+- APIs: for CMS, shopping carts, or restricting content
+- Markup: regular HTML, templated markup
+- ...and only a server serving out html files.
+
+---
+### Advantages
+
+- Speed: everything happens in the browser
+- Security: communication limited to defined APIs
+- Scaling: cheaper and easier when it's just serving files
+---
+
+### Examples
+
+- [City of Boston](https://budget.boston.gov/)
+- [Serverless](https://serverless.com/)
+- [JAMstack site*](https://jamstack.org/)
+
+(Loaded with JAMstack resources)
+---
+
+### Implementing a JAMstack
+
+- A static site generator
+- A headless CMS
+- A serverless server
+
+---
+### Static Site Generators:
+
+- Ruby: Jekyll, Middleman, Octopress
+- JavaScript: Hexo, GitBook, **Gatsby**
+- ...and other languages
+
+---
+### Gatsby has traction
+
+- Written in React.js
+- Large and growing community
+- Plenty of starter projects and demos
+- Uses GraphQL to pull content
+
+
+---?image=assets/wp.png
+
+### What about Content?
+
+#### Do we have to use WordPress? 😂
+
+### No! You have options:
+
+- markdown
+- Use a headless CMS. I like [Contentful](https://www.contentful.com/), but there are plenty closed and open source solutions to [choose from](https://headlesscms.org/).
+- connecting to WP
+
+![Logo](assets/contentful.png)
+
+---
+### Netlify
+
+##### A perfect platform for JAMstack.
+
+##### (and a generous free tier.)
+
+![Logo](assets/netlify.png)
+---
+### A quick Demo
+
+#### Gatsby, Contentful and Netlify create a blog.
+
+(The Ruby on Rails demo from 2006...)
+
+[https://github.com/BobWalsh/gatsby-starter-netlify-cms](https://github.com/BobWalsh/gatsby-starter-netlify-cms)
+
+---
+## Thank you!
