@@ -9,15 +9,20 @@ New ways of doing business.
 - JavaScript: React, Angular, or vanilla JS
 - APIs: for CMS, shopping carts, or restricting content
 - Markup: regular HTML, templated markup
-
+- ...and only a server serving out html files.
 
 ---
-## Advantages
+### Advantages
 
 - Speed: no server means everything happens in the browser
 - Security: Communication limited to defined APIs
 - Scaling: cheaper and easier when it's just serving files
 ---
+### Examples
+
+- [City of Boston](https://budget.boston.gov/)
+- [JAMstack site](https://jamstack.org/)
+- [Serverless](https://serverless.com/)
 
 ---
 
