@@ -26,11 +26,11 @@ New ways of doing business.
 
 (Loaded with JAMstack resources)
 ---
-### What about Content? User a Headless CMS
+#### What about Content? User a Headless CMS
 
 Do we have to use WordPress?
-![WordPress](assets/wp.jpg)
 
+---?image=assets/wp.jpg
 
 I like [Contentful](https://www.contentful.com/), but there are plenty closed and open source solutions to [choose from](https://headlesscms.org/).
 
