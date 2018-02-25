@@ -29,7 +29,7 @@ New ways of doing business.
 ### What about Content? User a Headless CMS
 
 Do we have to use WordPress?
-![WordPress](https://www.dropbox.com/s/aw4z4p8bjq0ow2z/wp1.jpg?dl=0)
+![WordPress](assets/wp.jpg)
 
 
 I like [Contentful](https://www.contentful.com/), but there are plenty closed and open source solutions to [choose from](https://headlesscms.org/).
