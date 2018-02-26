@@ -53,11 +53,11 @@ New ways of doing business.
 
 ### What about Content?
 
-Do we have to use WordPress? 😂
+#### Do we have to use WordPress? 😂
 
-## No! Use a headless CMS
+### No! Use a headless CMS
 
-I like [Contentful](https://www.contentful.com/), but there are plenty closed and open source solutions to [choose from](https://headlesscms.org/).
+### I like [Contentful](https://www.contentful.com/), but there are plenty closed and open source solutions to [choose from](https://headlesscms.org/).
 
 ![Logo](assets/contentful.png)
 
