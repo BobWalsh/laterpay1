@@ -55,9 +55,10 @@ New ways of doing business.
 ### Gatsby has traction
 
 - Written in React.js
-- Uses GraphQL to pull static content
 - Large and growing community
 - Plenty of starter projects and demos
+- Uses GraphQL to pull content
+
 
 ---?image=assets/wp.png
 
@@ -65,9 +66,11 @@ New ways of doing business.
 
 #### Do we have to use WordPress? 😂
 
-### No! Use a headless CMS
+### No! You have options:
 
-### I like [Contentful](https://www.contentful.com/), but there are plenty closed and open source solutions to [choose from](https://headlesscms.org/).
+- markdown
+- Use a headless CMS. I like [Contentful](https://www.contentful.com/), but there are plenty closed and open source solutions to [choose from](https://headlesscms.org/).
+- connecting to WP
 
 ![Logo](assets/contentful.png)
 
@@ -85,6 +88,8 @@ New ways of doing business.
 #### Gatsby, Contentful and Netlify create a blog.
 
 (The Ruby on Rails demo from 2006...)
+
+[https://github.com/BobWalsh/gatsby-starter-netlify-cms](https://github.com/BobWalsh/gatsby-starter-netlify-cms)
 
 ---
 ## Thank you!
