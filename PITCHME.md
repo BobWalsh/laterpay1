@@ -60,7 +60,7 @@ New ways of doing business.
 - Uses GraphQL to pull content
 
 
----?image=assets/wp.png
+---
 
 ### What about Content?
 
