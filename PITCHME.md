@@ -1,4 +1,4 @@
-### The JAMstack and LaterPay 
+### The JAMstack
 
 New ways of doing business.
 
@@ -10,7 +10,7 @@ New ways of doing business.
   [47hats](https://47hats.com)<br/>
   [microconsults](https://microconsults.com)<br/>
   [@BobWalsh](https://twitter.com/BobWalsh)<br/>
-  GitHub: [bobwalsh](https://github.com/BobWalsh)
+  GitHub: [bobwalsh](https://github.com/BobWalsh)<br/>
   [bob.walsh@47hats.com](mailto:bob.walsh@47hats.com)
 ---
 
@@ -19,7 +19,7 @@ New ways of doing business.
 - JavaScript: React, Angular, or vanilla JS
 - APIs: for CMS, shopping carts, or restricting content
 - Markup: regular HTML, templated markup
-- ...and only a server serving out html files.
+- ...And only a server to output html files (a CDN).
 
 ---
 ### Advantages
@@ -48,7 +48,7 @@ New ways of doing business.
 ### Static Site Generators:
 
 - Ruby: Jekyll, Middleman, Octopress
-- JavaScript: Hexo, GitBook, **Gatsby**
+- JavaScript: Hexo, GitBook, [**Gatsby**](https://www.gatsbyjs.org/)
 - ...and other languages
 
 ---
@@ -68,13 +68,13 @@ New ways of doing business.
 
 ### No! You have options:
 
-- markdown
-- connecting to WP, if you must, or
+- Markdown
+- Connecting to WP, if you must, or
 - Use a headless CMS. 
 
 ---
 
-#### I like [Contentful](https://www.contentful.com/), but there are plenty closed and open source solutions to [choose from](https://headlesscms.org/).
+#### I like markdown or [Contentful](https://www.contentful.com/), but there are plenty closed and open source solutions to [choose from](https://headlesscms.org/).
 
 
 ![Logo](assets/contentful.png)
@@ -90,7 +90,7 @@ New ways of doing business.
 ---
 ### A quick Demo
 
-#### Gatsby, Contentful and Netlify create a blog.
+#### Gatsby, markdown and Netlify create a blog.
 
 (The Ruby on Rails demo from 2006...)
 
