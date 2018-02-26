@@ -1,4 +1,4 @@
-# The JAMstack and LaterPay 
+### The JAMstack and LaterPay 
 
 New ways of doing business.
 
@@ -59,11 +59,14 @@ Do we have to use WordPress? 😂
 
 I like [Contentful](https://www.contentful.com/), but there are plenty closed and open source solutions to [choose from](https://headlesscms.org/).
 
+![Logo](assets/contentful.png)
+
 ---
 ### Netlify
 
-A perfect platform for JAMstack.
-(and a generous free tier.)
+##### A perfect platform for JAMstack.
+
+##### (and a generous free tier.)
 
 ![Logo](assets/netlify.png)
 ---
