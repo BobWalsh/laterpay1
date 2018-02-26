@@ -69,8 +69,13 @@ New ways of doing business.
 ### No! You have options:
 
 - markdown
-- Use a headless CMS. I like [Contentful](https://www.contentful.com/), but there are plenty closed and open source solutions to [choose from](https://headlesscms.org/).
-- connecting to WP
+- connecting to WP, if you must, or
+- Use a headless CMS. 
+
+---
+
+#### I like [Contentful](https://www.contentful.com/), but there are plenty closed and open source solutions to [choose from](https://headlesscms.org/).
+
 
 ![Logo](assets/contentful.png)
 
