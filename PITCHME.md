@@ -3,6 +3,15 @@
 New ways of doing business.
 
 ---
+#### So who am I?
+
+  ### Bob Walsh
+
+  [47hats](https://47hats.com)<br/>
+  [microconsults](https://microconsults.com)<br/>
+  [@BobWalsh](https://twitter.com/BobWalsh)<br/>
+  Github: [bobwalsh](https://github.com/BobWalsh)
+---
 
 ### What is the JAMstack?
 
@@ -76,11 +85,7 @@ New ways of doing business.
 
 (The Ruby on Rails demo from 2006...)
 
+---
+## Thank you!
 
-
-
-
-
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
-
+---
