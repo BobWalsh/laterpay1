@@ -10,7 +10,8 @@ New ways of doing business.
   [47hats](https://47hats.com)<br/>
   [microconsults](https://microconsults.com)<br/>
   [@BobWalsh](https://twitter.com/BobWalsh)<br/>
-  Github: [bobwalsh](https://github.com/BobWalsh)
+  GitHub: [bobwalsh](https://github.com/BobWalsh)
+  [bob.walsh@47hats.com](mailto:bob.walsh@47hats.com)
 ---
 
 ### What is the JAMstack?
@@ -23,8 +24,8 @@ New ways of doing business.
 ---
 ### Advantages
 
-- Speed: no server means everything happens in the browser
-- Security: Communication limited to defined APIs
+- Speed: everything happens in the browser
+- Security: communication limited to defined APIs
 - Scaling: cheaper and easier when it's just serving files
 ---
 
@@ -87,5 +88,3 @@ New ways of doing business.
 
 ---
 ## Thank you!
-
----
